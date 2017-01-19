@@ -1,1 +1,4 @@
-1 ceci c'est un autre fichier commit
+1 ceci c'est un autre fichier commiter avec github
+Et maintenant je modifie depuis github pour vois la puissance
+et l'efficacité de cet outil que eje suis entyrain de 
+découvrir, ça l'air génial...
